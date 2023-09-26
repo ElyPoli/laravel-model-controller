@@ -1,2 +1,19 @@
 @use "bootstrap";
 @use "@fortawesome/fontawesome-free/css/all.min.css";
+
+.main-home {
+    background-image: url("../../public/img/bg-img.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.card {
+    height: 100%;
+    color: #ffffff;
+    background-color: rgba(104, 52, 51, 0.9);
+}
+
+.card-text {
+    text-align: left;
+}
