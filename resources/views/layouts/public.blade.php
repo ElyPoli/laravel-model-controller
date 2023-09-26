@@ -3,9 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Esercizio 55: Laravel - Model-Controller</title>
 
     @vite(["resources/js/app.js", "resources/scss/app.scss"])
+
+    <!-- Icona -->
+    <link rel="icon" href="{{ asset('img/icon-logo.png') }}">
 </head>
 <body>
     <main>
